@@ -1,0 +1,6 @@
+Name,Age,Salary,Department,Joining Date
+John,28,70000,HR,1/15/2020
+Jane,34,80000,Finance,8/10/2019
+Alice,29,,IT,6/25/2021
+Bob,,50000,Marketing,
+,42,60000,IT,11/30/2020
